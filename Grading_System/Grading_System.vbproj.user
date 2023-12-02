@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundCornerButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundCornerPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundCornerTextbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Signup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
