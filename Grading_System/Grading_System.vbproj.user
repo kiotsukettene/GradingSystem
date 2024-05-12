@@ -7,7 +7,28 @@
     <Compile Update="DashboardMain.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="DashboardPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralGradeComputation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralGradeComputationFinals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateGradeSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GradeCalculation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GradingSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfManagement.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="RoundCornerButton.vb">
@@ -19,7 +40,16 @@
     <Compile Update="RoundCornerTextbox.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Update="SelectTerm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Signup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentManagementFinals.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

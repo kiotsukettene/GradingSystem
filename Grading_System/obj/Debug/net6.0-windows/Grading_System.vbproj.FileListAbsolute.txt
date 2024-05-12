@@ -18,3 +18,164 @@ E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\refint\Gra
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.pdb
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.genruntimeconfig.cache
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\ref\Grading_System.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardPanel.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.ProfManagement.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagement.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradingSheet.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.AssemblyReference.cache
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CopyComplete
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.exe
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.deps.json
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.runtimeconfig.json
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.AssemblyReference.cache
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Dashboard.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardMain.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardPanel.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradingSheet.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Login.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Resources.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.ProfManagement.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Signup.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagement.resources
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.GenerateResource.cache
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfoInputs.cache
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfo.vb
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CoreCompileInputs.cache
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CopyComplete
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\refint\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.genruntimeconfig.cache
+C:\Users\BJ\OneDrive\Desktop\GradingSystem\Grading_System\Grading_System\obj\Debug\net6.0-windows\ref\Grading_System.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.exe
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.deps.json
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.runtimeconfig.json
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.AssemblyReference.cache
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Dashboard.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardMain.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardPanel.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradingSheet.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Login.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Resources.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.ProfManagement.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Signup.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagement.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.GenerateResource.cache
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfoInputs.cache
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfo.vb
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CoreCompileInputs.cache
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\refint\Grading_System.dll
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.genruntimeconfig.cache
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\ref\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.exe
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.deps.json
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.runtimeconfig.json
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.AssemblyReference.cache
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Dashboard.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardMain.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardPanel.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradingSheet.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Login.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Resources.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.ProfManagement.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.Signup.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagement.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.GenerateResource.cache
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfoInputs.cache
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.AssemblyInfo.vb
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CoreCompileInputs.cache
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.vbproj.CopyComplete
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\refint\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.pdb
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.genruntimeconfig.cache
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\ref\Grading_System.dll
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.SelectTerm.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagementFinals.resources
+C:\Users\BJ\OneDrive\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradeCalculation.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradeCalculation.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.SelectTerm.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagementFinals.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GeneralGradeComputation.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GeneralGradeComputationFinals.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GenerateGradeSheet.resources
+C:\Users\Russell\Desktop\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_.78E7CB7A.Up2Date

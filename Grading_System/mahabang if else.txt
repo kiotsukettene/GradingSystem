@@ -1,0 +1,29 @@
+ If DashboardPanel.BSCSSection.Text = "1A" Or DashboardPanel.BSCSSection.Text = "1B" Or
+     DashboardPanel.BSCSSection.Text = "2A" Or DashboardPanel.BSCSSection.Text = "2B" Or
+     DashboardPanel.BSCSSection.Text = "3A" Or DashboardPanel.BSCSSection.Text = "3B" Or
+     DashboardPanel.BSCSSection.Text = "4A" Or DashboardPanel.BSCSSection.Text = "4B" Then
+
+     ProgramBox.Text = DashboardPanel.Program1.Text
+     SectionBox.Text = DashboardPanel.BSCSSection.Text
+ ElseIf DashboardPanel.BSITSection.Text = "1A" Or DashboardPanel.BSITSection.Text = "1B" Or
+     DashboardPanel.BSITSection.Text = "2A" Or DashboardPanel.BSITSection.Text = "2B" Or
+     DashboardPanel.BSITSection.Text = "3A" Or DashboardPanel.BSITSection.Text = "3B" Or
+     DashboardPanel.BSITSection.Text = "4A" Or DashboardPanel.BSITSection.Text = "4B" Then
+
+     ProgramBox.Text = DashboardPanel.Program2.Text
+     SectionBox.Text = DashboardPanel.BSITSection.Text
+ ElseIf DashboardPanel.BSISSection.Text = "1A" Or DashboardPanel.BSISSection.Text = "1B" Or
+     DashboardPanel.BSISSection.Text = "2A" Or DashboardPanel.BSISSection.Text = "2B" Or
+     DashboardPanel.BSISSection.Text = "3A" Or DashboardPanel.BSISSection.Text = "3B" Or
+     DashboardPanel.BSISSection.Text = "4A" Or DashboardPanel.BSISSection.Text = "4B" Then
+
+     ProgramBox.Text = DashboardPanel.Program3.Text
+     SectionBox.Text = DashboardPanel.BSISSection.Text
+ ElseIf DashboardPanel.BSEMCSection.Text = "1A" Or DashboardPanel.BSEMCSection.Text = "1B" Or
+     DashboardPanel.BSEMCSection.Text = "2A" Or DashboardPanel.BSEMCSection.Text = "2B" Or
+     DashboardPanel.BSEMCSection.Text = "3A" Or DashboardPanel.BSEMCSection.Text = "3B" Or
+     DashboardPanel.BSEMCSection.Text = "4A" Or DashboardPanel.BSEMCSection.Text = "4B" Then
+
+     ProgramBox.Text = DashboardPanel.Program4.Text
+     SectionBox.Text = DashboardPanel.BSEMCSection.Text
+ End If

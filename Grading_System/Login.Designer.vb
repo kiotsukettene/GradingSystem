@@ -22,7 +22,7 @@ Partial Class Login
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(Login))
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Login))
         Panel1 = New Panel()
         Panel3 = New Panel()
         Panel2 = New Panel()
@@ -31,16 +31,20 @@ Partial Class Login
         Label2 = New Label()
         Label1 = New Label()
         Label3 = New Label()
-        emailBox = New RoundCornerTextbox()
         Label4 = New Label()
-        RoundCornerTextbox2 = New RoundCornerTextbox()
         signUpTab = New Label()
-        RoundCornerButton2 = New RoundCornerButton()
+        BtnSignIn = New RoundCornerButton()
         signPanel = New RoundCornerPanel()
+        EmailPanel = New RoundCornerPanel()
+        emailBox = New TextBox()
+        PassPanel = New RoundCornerPanel()
+        PasswordBox = New TextBox()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         Panel4.SuspendLayout()
         signPanel.SuspendLayout()
+        EmailPanel.SuspendLayout()
+        PassPanel.SuspendLayout()
         SuspendLayout()
         ' 
         ' Panel1
@@ -126,23 +130,9 @@ Partial Class Login
         Label3.Text = "EMAIL"
         Label3.TextAlign = ContentAlignment.MiddleLeft
         ' 
-        ' emailBox
-        ' 
-        emailBox.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
-        emailBox.BorderStyle = BorderStyle.None
-        emailBox.Font = New Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point)
-        emailBox.ForeColor = SystemColors.WindowFrame
-        emailBox.Location = New Point(38, 298)
-        emailBox.Margin = New Padding(5, 3, 3, 3)
-        emailBox.Multiline = True
-        emailBox.Name = "emailBox"
-        emailBox.Size = New Size(357, 42)
-        emailBox.TabIndex = 4
-        emailBox.TextAlign = HorizontalAlignment.Center
-        ' 
         ' Label4
         ' 
-        Label4.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Label4.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         Label4.ForeColor = Color.FromArgb(CByte(69), CByte(176), CByte(99))
         Label4.Location = New Point(38, 343)
         Label4.Name = "Label4"
@@ -151,23 +141,9 @@ Partial Class Login
         Label4.Text = "PASSWORD"
         Label4.TextAlign = ContentAlignment.MiddleLeft
         ' 
-        ' RoundCornerTextbox2
-        ' 
-        RoundCornerTextbox2.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
-        RoundCornerTextbox2.BorderStyle = BorderStyle.None
-        RoundCornerTextbox2.Font = New Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point)
-        RoundCornerTextbox2.ForeColor = SystemColors.WindowFrame
-        RoundCornerTextbox2.Location = New Point(38, 374)
-        RoundCornerTextbox2.Multiline = True
-        RoundCornerTextbox2.Name = "RoundCornerTextbox2"
-        RoundCornerTextbox2.PasswordChar = "*"c
-        RoundCornerTextbox2.Size = New Size(357, 42)
-        RoundCornerTextbox2.TabIndex = 6
-        RoundCornerTextbox2.TextAlign = HorizontalAlignment.Center
-        ' 
         ' signUpTab
         ' 
-        signUpTab.Font = New Font("Segoe UI", 12.0F, FontStyle.Underline, GraphicsUnit.Point)
+        signUpTab.Font = New Font("Segoe UI", 12F, FontStyle.Underline, GraphicsUnit.Point)
         signUpTab.ForeColor = Color.White
         signUpTab.Location = New Point(10, 3)
         signUpTab.Name = "signUpTab"
@@ -176,19 +152,19 @@ Partial Class Login
         signUpTab.Text = "SIGN UP"
         signUpTab.TextAlign = ContentAlignment.MiddleLeft
         ' 
-        ' RoundCornerButton2
+        ' BtnSignIn
         ' 
-        RoundCornerButton2.BackColor = Color.FromArgb(CByte(69), CByte(176), CByte(99))
-        RoundCornerButton2.FlatAppearance.BorderSize = 0
-        RoundCornerButton2.FlatStyle = FlatStyle.Flat
-        RoundCornerButton2.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
-        RoundCornerButton2.ForeColor = Color.White
-        RoundCornerButton2.Location = New Point(291, 422)
-        RoundCornerButton2.Name = "RoundCornerButton2"
-        RoundCornerButton2.Size = New Size(104, 35)
-        RoundCornerButton2.TabIndex = 9
-        RoundCornerButton2.Text = "SIGN IN"
-        RoundCornerButton2.UseVisualStyleBackColor = False
+        BtnSignIn.BackColor = Color.FromArgb(CByte(69), CByte(176), CByte(99))
+        BtnSignIn.FlatAppearance.BorderSize = 0
+        BtnSignIn.FlatStyle = FlatStyle.Flat
+        BtnSignIn.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        BtnSignIn.ForeColor = Color.White
+        BtnSignIn.Location = New Point(291, 483)
+        BtnSignIn.Name = "BtnSignIn"
+        BtnSignIn.Size = New Size(104, 35)
+        BtnSignIn.TabIndex = 9
+        BtnSignIn.Text = "SIGN IN"
+        BtnSignIn.UseVisualStyleBackColor = False
         ' 
         ' signPanel
         ' 
@@ -199,17 +175,59 @@ Partial Class Login
         signPanel.Size = New Size(89, 31)
         signPanel.TabIndex = 11
         ' 
+        ' EmailPanel
+        ' 
+        EmailPanel.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
+        EmailPanel.BorderStyle = BorderStyle.FixedSingle
+        EmailPanel.Controls.Add(emailBox)
+        EmailPanel.Location = New Point(38, 298)
+        EmailPanel.Name = "EmailPanel"
+        EmailPanel.Size = New Size(357, 42)
+        EmailPanel.TabIndex = 12
+        ' 
+        ' emailBox
+        ' 
+        emailBox.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
+        emailBox.BorderStyle = BorderStyle.None
+        emailBox.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        emailBox.Location = New Point(14, 12)
+        emailBox.Name = "emailBox"
+        emailBox.Size = New Size(329, 22)
+        emailBox.TabIndex = 0
+        emailBox.TextAlign = HorizontalAlignment.Center
+        ' 
+        ' PassPanel
+        ' 
+        PassPanel.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
+        PassPanel.Controls.Add(PasswordBox)
+        PassPanel.Location = New Point(38, 374)
+        PassPanel.Name = "PassPanel"
+        PassPanel.Size = New Size(357, 42)
+        PassPanel.TabIndex = 13
+        ' 
+        ' PasswordBox
+        ' 
+        PasswordBox.BackColor = Color.FromArgb(CByte(217), CByte(217), CByte(217))
+        PasswordBox.BorderStyle = BorderStyle.None
+        PasswordBox.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        PasswordBox.Location = New Point(14, 12)
+        PasswordBox.Name = "PasswordBox"
+        PasswordBox.PasswordChar = "*"c
+        PasswordBox.Size = New Size(329, 22)
+        PasswordBox.TabIndex = 0
+        PasswordBox.TextAlign = HorizontalAlignment.Center
+        ' 
         ' Login
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(65), CByte(65), CByte(65))
         ClientSize = New Size(433, 554)
+        Controls.Add(PassPanel)
+        Controls.Add(EmailPanel)
         Controls.Add(signPanel)
-        Controls.Add(RoundCornerButton2)
-        Controls.Add(RoundCornerTextbox2)
+        Controls.Add(BtnSignIn)
         Controls.Add(Label4)
-        Controls.Add(emailBox)
         Controls.Add(Label3)
         Controls.Add(Panel4)
         Controls.Add(PictureBox1)
@@ -222,8 +240,11 @@ Partial Class Login
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
         Panel4.ResumeLayout(False)
         signPanel.ResumeLayout(False)
+        EmailPanel.ResumeLayout(False)
+        EmailPanel.PerformLayout()
+        PassPanel.ResumeLayout(False)
+        PassPanel.PerformLayout()
         ResumeLayout(False)
-        PerformLayout()
     End Sub
 
     Friend WithEvents Panel1 As Panel
@@ -234,11 +255,13 @@ Partial Class Login
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
-    Friend WithEvents emailBox As RoundCornerTextbox
     Friend WithEvents Label4 As Label
-    Friend WithEvents RoundCornerTextbox2 As RoundCornerTextbox
     Friend WithEvents signUpTab As Label
-    Friend WithEvents RoundCornerButton2 As RoundCornerButton
+    Friend WithEvents BtnSignIn As RoundCornerButton
     Friend WithEvents Panel5 As Panel
     Friend WithEvents signPanel As RoundCornerPanel
+    Friend WithEvents EmailPanel As RoundCornerPanel
+    Friend WithEvents emailBox As TextBox
+    Friend WithEvents PassPanel As RoundCornerPanel
+    Friend WithEvents PasswordBox As TextBox
 End Class
